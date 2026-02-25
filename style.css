@@ -26,4 +26,6 @@ button {
 
 header {
     display: flex;
+    padding: 10px 20px;
+    border: #181818;
 }
